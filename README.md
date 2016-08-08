@@ -1,2 +1,2 @@
 # Useful-SAS-Codes
-Some useful SAS codes that makes my life easier.
+Some useful SAS codes that make my life easier.
